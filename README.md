@@ -2,7 +2,7 @@
 ## Programación Orientada a Objetos 2026-2S
 
 * **Nombre de la actividad:** Actividad 1: Individual - Valor 10%
-* **Nombre completo del estudiante:** Daniel Augusto Villada
+* **Nombre completo del estudiante:** Daniel Augusto Villada Saldarriaga
 * **Nombre completo del docente:** Walter Hugo Arboleda Mazo
 
 ### Repositorio del curso
