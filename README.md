@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.pngitem.com/middle/oihmJm_universidad-nacional-de-colombia-logo-png-transparent-png/" width="180">
+  <img src="https://www.pngitem.com/middle/oihmJm_universidad-nacional-de-colombia-logo-png-transparent-png/](https://www.pngitem.com/pimgs/m/74-744427_universidad-nacional-de-colombia-logo-png-transparent-png.png" width="180">
 </p>
 # Universidad Nacional de Colombia
 ## Programación Orientada a Objetos 2026-2S
