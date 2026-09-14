@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" width="180">
+  <img src="logo.png" width="360">
 </p>
 
 # Universidad Nacional de Colombia
