@@ -19,4 +19,15 @@
 - [ejercicio 14.py](https://github.com/dvilladasa-hub/Programacion_Orientada_a_Objetos_2026_2S/raw/main/ejercicio%2014.py)
 - [ejercicio 17.py](https://github.com/dvilladasa-hub/Programacion_Orientada_a_Objetos_2026_2S/raw/main/ejercicio%2017.py)
 
-</details>
+ </details>
++
++<details>
++<summary><b>Actividad 2</b></summary>
++
++- [ejercicio 2.1.py](https://github.com/dvilladasa-hub/Programacion_Orientada_a_Objetos_2026_2S/raw/main/ejercicio%202.1.py)
++- [ejercicio2.2.py](https://github.com/dvilladasa-hub/Programacion_Orientada_a_Objetos_2026_2S/raw/main/ejercicio2.2.py)
++- [ejercicio 2.3.py](https://github.com/dvilladasa-hub/Programacion_Orientada_a_Objetos_2026_2S/raw/main/ejercicio%202.3.py)
++- [ejercicio 2.4.py](https://github.com/dvilladasa-hub/Programacion_Orientada_a_Objetos_2026_2S/raw/main/ejercicio%202.4.py)
++- [ejercicio 2.5.py](https://github.com/dvilladasa-hub/Programacion_Orientada_a_Objetos_2026_2S/raw/main/ejercicio%202.5.py)
++
++</details>
