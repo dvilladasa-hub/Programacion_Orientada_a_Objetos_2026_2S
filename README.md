@@ -1,10 +1,22 @@
 <p align="center">
-  <img src="logo.png" width="360">
+  <img src="logo.png" width="400">
 </p>
 
 # Universidad Nacional de Colombia
+
 ## Programación Orientada a Objetos 2026-2S
 
-* **Nombre de la actividad:** Actividad 1: Individual - Valor 10%[cite: 1]
-* **Nombre completo del estudiante:** Daniel Augusto Villada[cite: 7]
-* **Nombre completo del docente:** Walter Hugo Arboleda Mazo[cite: 1]
+- **Nombre de la actividad:** [Actividad 1: Individual - Valor 10%](https://github.com/dvilladasa-hub/Programacion_Orientada_a_Objetos_2026_2S/archive/refs/heads/main.zip)
+- **Nombre completo del estudiante:** Daniel Augusto Villada
+- **Nombre completo del docente:** Walter Hugo Arboleda Mazo
+
+<details>
+<summary><b>⬇️ Descargar ejercicios 1 × 1</b></summary>
+
+- [ejercicio 4.py](https://github.com/dvilladasa-hub/Programacion_Orientada_a_Objetos_2026_2S/raw/main/ejercicio%204.py)
+- [ejercicio 5.py](https://github.com/dvilladasa-hub/Programacion_Orientada_a_Objetos_2026_2S/raw/main/ejercicio%205.py)
+- [ejercicio 12.py](https://github.com/dvilladasa-hub/Programacion_Orientada_a_Objetos_2026_2S/raw/main/ejercicio%2012.py)
+- [ejercicio 14.py](https://github.com/dvilladasa-hub/Programacion_Orientada_a_Objetos_2026_2S/raw/main/ejercicio%2014.py)
+- [ejercicio 17.py](https://github.com/dvilladasa-hub/Programacion_Orientada_a_Objetos_2026_2S/raw/main/ejercicio%2017.py)
+
+</details>
