@@ -6,7 +6,7 @@
 
 ## Programación Orientada a Objetos 2026-2S
 
-- **Descarga de todas las actividades** [Actividades](https://github.com/dvilladasa-hub/Programacion_Orientada_a_Objetos_2026_2S/archive/refs/heads/main.zip)
+- **Descarga de todas las actividades:** [Actividades](https://github.com/dvilladasa-hub/Programacion_Orientada_a_Objetos_2026_2S/archive/refs/heads/main.zip)
 - **Nombre completo del estudiante:** Daniel Augusto Villada
 - **Nombre completo del docente:** Walter Hugo Arboleda Mazo
 
