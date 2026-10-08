@@ -11,7 +11,7 @@
 - **Nombre completo del docente:** Walter Hugo Arboleda Mazo
 
 <details>
-<summary><b>⬇️ Descargar ejercicios 1 × 1</b></summary>
++<summary><b>Actividad 1</b></summary>
 
 - [ejercicio 4.py](https://github.com/dvilladasa-hub/Programacion_Orientada_a_Objetos_2026_2S/raw/main/ejercicio%204.py)
 - [ejercicio 5.py](https://github.com/dvilladasa-hub/Programacion_Orientada_a_Objetos_2026_2S/raw/main/ejercicio%205.py)
